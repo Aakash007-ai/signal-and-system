@@ -1,0 +1,1 @@
+clcclear allfm = 400;T = 1;%t=[0:1/fm:T];t=linspace(0:1:10)%from start to end ,(number of samples)%t=[0:0.1:1]y=cos(t);%plot(y)%stem(y)%sin(2*pi*(f/fs)*n); f frequency and fs sampling frequency fs>=fstem(sin(2*pi*(50/100)*[0:19]) %we want to plot 1 cycle therefore we want 20 samples      time vector how many cycle we want to plot
